@@ -431,8 +431,24 @@
 						"Change Character",
 						"1",
 						"dadangy"
+					],
+					[
+						92875,
+						-1,
+						"Screen Shake",
+						"",
+						"27,0.09"
 					]
 				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false

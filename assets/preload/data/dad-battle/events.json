@@ -36,20 +36,29 @@
 						"dadgod"
 					],
 					[
-						2333.33333333333,
-						-1,
-						"Screen Shake",
-						"165",
-						"2.10"
-					],
-					[
 						1833.33333333333,
 						-1,
 						"Trigger BG Ghouls",
 						"",
 						""
+					],
+					[
+						2333.33333333333,
+						-1,
+						"Screen Shake",
+						"163,0.05",
+						"163,0.06"
 					]
 				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
