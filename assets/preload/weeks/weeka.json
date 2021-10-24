@@ -1,6 +1,6 @@
 {
-	"storyName": "Daddy Dearest",
-	"hideFreeplay": true,
+	"storyName": "dog rat lookin thing, i still don't know what this is",
+	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
@@ -11,7 +11,7 @@
 	],
 	"songs": [
 		[
-			"Bopeebo",
+			"storm",
 			"dad",
 			[
 				255,
@@ -20,7 +20,7 @@
 			]
 		],
 		[
-			"Fresh",
+			"making-day",
 			"dad",
 			[
 				255,
@@ -29,7 +29,7 @@
 			]
 		],
 		[
-			"Dad Battle",
+			"good-enough",
 			"dad",
 			[
 				26,
@@ -38,6 +38,6 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "Week 1"
+	"hideStoryMode": false,
+	"weekName": "weeka"
 }

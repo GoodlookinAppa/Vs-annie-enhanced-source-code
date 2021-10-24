@@ -1014,8 +1014,8 @@ class PlayState extends MusicBeatState
 			        case 'fresh':
 					    startVideo('full thing');
 
-                    case 'dadbattle':
-					    startDialogue(dialogueJson);
+                    case 'dad-battle':
+					    startVideo('finalanimation');
 
 				default:
 					startCountdown();
@@ -2249,12 +2249,20 @@ class PlayState extends MusicBeatState
 						{
 							case 0:
 								animToPlay = 'singLEFT';
+								if(health > 0.7)
+								health -= 0.05;
 							case 1:
 								animToPlay = 'singDOWN';
+								if(health > 0.7)
+								health -= 0.05;
 							case 2:
 								animToPlay = 'singUP';
+								if(health > 0.7)
+								health -= 0.05;
 							case 3:
 								animToPlay = 'singRIGHT';
+								if(health > 0.7)
+								health -= 0.05;
 						}
 						if(daNote.noteType == 'GF Sing') {
 							gf.playAnim(animToPlay + altAnim, true);

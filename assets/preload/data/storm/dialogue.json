@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Psy_Dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so yeah enjoy this shitty demo femboi dialogue"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck you"
+		}
+	]
+}
