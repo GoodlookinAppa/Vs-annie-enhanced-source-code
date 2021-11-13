@@ -380,6 +380,10 @@ class PlayState extends MusicBeatState
 					add(stageCurtains);
 				}
 
+				case 'west': //WeekW
+				var westbg:BGSprite = new BGSprite('westbg', -600, -200, 0.9, 0.9);
+				add(westbg);
+
 			case 'spooky': //Week 2
 				if(!ClientPrefs.lowQuality) {
 					halloweenBG = new BGSprite('halloween_bg', -200, -100, ['halloweem bg0', 'halloweem bg lightning strike']);
@@ -1008,13 +1012,13 @@ class PlayState extends MusicBeatState
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
 
-					case 'bopeebo':
+					case 'storm':
 					    startVideo('vs annie full scene');
 
-			        case 'fresh':
+			        case 'making-day':
 					    startVideo('full thing');
 
-                    case 'dad-battle':
+                    case 'good-enough':
 					    startVideo('finalanimation');
 
 				default:

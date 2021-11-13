@@ -98,6 +98,21 @@ class Note extends FlxSprite
 					hitCausesMiss = true;
 				case 'No Animation':
 					noAnimation = true;
+				case 'Bullet Note':
+					mustPress;
+					reloadNote('BULLET');
+					noteSplashTexture = 'BULLETnoteSplashes';
+					colorSwap.hue = 0;
+					colorSwap.saturation = 0;
+					colorSwap.brightness = 0;
+					if(isSustainNote) {
+						missHealth = 0.1;
+					} else {
+						missHealth = 0.3;
+					}
+					hitCausesMiss = true;
+				case 'No Animation':
+					noAnimation = true;
 			}
 			noteType = value;
 		}

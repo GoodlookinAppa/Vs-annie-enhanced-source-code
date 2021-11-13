@@ -1,36 +1,18 @@
 {
-	"storyName": "Spooky Month",
+	"storyName": "western dog rat looking mf",
 	"hideFreeplay": true,
 	"weekBackground": "halloween",
 	"weekBefore": "week1",
 	"startUnlocked": true,
 	"weekCharacters": [
-		"spooky",
+		"dad",
 		"bf",
 		"gf"
 	],
 	"songs": [
 		[
-			"Spookeez",
-			"spooky",
-			[
-				34,
-				51,
-				68
-			]
-		],
-		[
-			"South",
-			"spooky",
-			[
-				34,
-				51,
-				68
-			]
-		],
-		[
-			"Monster",
-			"monster",
+			"artist-lemonade",
+			"dadangy",
 			[
 				34,
 				51,

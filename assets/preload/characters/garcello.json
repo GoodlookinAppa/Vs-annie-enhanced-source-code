@@ -1,134 +1,134 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				140,
 				-100
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Grunt Idle",
 			"indices": [
 				10,
 				11,
 				12,
 				12
-			],
-			"name": "Grunt Idle"
+			]
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-9,
 				10
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Grunt Left",
 			"indices": [
 				12,
 				13,
 				14,
 				15
-			],
-			"name": "Grunt Left"
+			]
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				27
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Grunt Right",
 			"indices": [
 				15,
 				16,
 				17,
 				18
-			],
-			"name": "Grunt Right"
+			]
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-6,
 				50
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Grunt Up",
 			"indices": [
 				56,
 				57,
 				58,
 				59
-			],
-			"name": "Grunt Up"
+			]
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-6,
-				50
+				-4,
+				39
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "garcello Sing Note UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "garcello Sing Note UP"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-9,
-				10
+				31
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "garcello Sing Note LEFT",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "garcello Sing Note LEFT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				27
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "garcello Sing Note RIGHT",
-			"indices": []
+			"indices": [],
+			"name": "garcello Sing Note RIGHT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				0
+				30
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "garcello idle dance",
-			"indices": []
+			"indices": [],
+			"name": "garcello idle dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				-30
+				-3
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "garcello Sing Note DOWN",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "garcello Sing Note DOWN"
 		}
 	],
 	"no_antialiasing": false,

@@ -1,0 +1,25 @@
+{
+	"storyName": "western dog rat looking thing",
+	"hideFreeplay": false,
+	"weekBackground": "west",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"artist-lemonade",
+			"dadwest",
+			[
+				235,
+				135,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekw"
+}
