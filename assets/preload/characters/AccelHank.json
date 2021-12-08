@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Grunt Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				252,
+				-140
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Grunt Left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Grunt Right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Grunt Up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				10,
+				-233
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "",
+			"loop": false,
+			"name": "HankGetReady"
+		},
+		{
+			"offsets": [
+				90,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Hank Down Note"
+		},
+		{
+			"offsets": [
+				-7,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Hank Idle"
+		},
+		{
+			"offsets": [
+				0,
+				-234
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "HankGetReady"
+		},
+		{
+			"offsets": [
+				291,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Hank Left Note"
+		},
+		{
+			"offsets": [
+				-6,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Hank Up note"
+		},
+		{
+			"offsets": [
+				130,
+				-153
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Hank right note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HankAssetsannie",
+	"position": [
+		30,
+		-50
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		55,
+		215
+	],
+	"camera_position": [
+		-210,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

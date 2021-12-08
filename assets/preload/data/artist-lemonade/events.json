@@ -1,7 +1,7 @@
 {
 	"song": {
-		"speed": 3,
-		"stage": null,
+		"speed": 3.6,
+		"stage": "exampleStage",
 		"player1": "bf",
 		"player2": "spok",
 		"player3": "gf",
@@ -71,7 +71,22 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						3818.18181818182,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						4000,
+						-1,
+						"Change Character",
+						"BF",
+						"bfscared"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -152,6 +167,13 @@
 						"Add Camera Zoom",
 						"0.25",
 						"0.25"
+					],
+					[
+						10545.4545454545,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
 				"bpm": 0,
@@ -336,7 +358,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						28000,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -345,7 +375,22 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						29272.7272727273,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						29727.2727272727,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -368,6 +413,13 @@
 						"Add Camera Zoom",
 						"0.25",
 						"0.25"
+					],
+					[
+						31181.8181818182,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
 				"bpm": 0,
@@ -515,7 +567,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						48818.1818181818,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -612,6 +672,13 @@
 						"Add Camera Zoom",
 						"0.25",
 						"0.25"
+					],
+					[
+						56363.6363636364,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
 				"bpm": 0,
@@ -669,7 +736,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						60818.1818181819,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -864,7 +939,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						74727.2727272728,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -939,7 +1022,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						82454.5454545455,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -1056,6 +1147,60 @@
 						"1, 0.45"
 					]
 				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false

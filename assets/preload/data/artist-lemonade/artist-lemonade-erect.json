@@ -1,8 +1,10 @@
 {
 	"song": {
 		"player1": "bf",
+		"player2": "spok",
 		"notes": [
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						90.9090909090909,
@@ -83,10 +85,10 @@
 						"0.03"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						2181.81818181818,
@@ -129,10 +131,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						2909.09090909091,
@@ -160,16 +162,6 @@
 						0
 					],
 					[
-						3818.18181818182,
-						3,
-						0
-					],
-					[
-						3818.18181818182,
-						2,
-						0
-					],
-					[
 						2909.09090909091,
 						2,
 						0
@@ -203,12 +195,30 @@
 						3818.18181818182,
 						1,
 						0
+					],
+					[
+						3818.18181818182,
+						3,
+						"Sound Effect",
+						"Tutorial Note"
+					],
+					[
+						3818.18181818182,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						3818.18181818182,
+						2,
+						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						4454.54545454545,
@@ -301,10 +311,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						5818.18181818182,
@@ -362,10 +372,10 @@
 						181.818181818182
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						7272.72727272727,
@@ -385,11 +395,6 @@
 					[
 						7909.09090909091,
 						1,
-						0
-					],
-					[
-						8090.90909090909,
-						0,
 						0
 					],
 					[
@@ -413,11 +418,6 @@
 						0
 					],
 					[
-						7727.27272727273,
-						2,
-						0
-					],
-					[
 						7909.09090909091,
 						2,
 						0
@@ -436,12 +436,30 @@
 						8272.72727272727,
 						1,
 						181.818181818182
+					],
+					[
+						7727.27272727273,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						7727.27272727273,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						8090.90909090909,
+						0,
+						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						8727.27272727273,
@@ -455,11 +473,6 @@
 					],
 					[
 						9181.81818181818,
-						1,
-						0
-					],
-					[
-						9181.81818181818,
 						2,
 						0
 					],
@@ -469,23 +482,8 @@
 						0
 					],
 					[
-						9363.63636363636,
-						3,
-						0
-					],
-					[
-						9636.36363636364,
-						0,
-						0
-					],
-					[
 						9636.36363636364,
 						1,
-						0
-					],
-					[
-						9909.09090909091,
-						2,
 						0
 					],
 					[
@@ -502,12 +500,56 @@
 						8909.09090909091,
 						2,
 						0
+					],
+					[
+						9363.63636363636,
+						3,
+						0,
+						"Tutorial Note"
+					],
+					[
+						9636.36363636364,
+						0,
+						0,
+						"Tutorial Note"
+					],
+					[
+						9909.09090909091,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						9363.63636363636,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						9636.36363636364,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						9909.09090909091,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						9181.81818181818,
+						1,
+						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						10181.8181818182,
@@ -522,11 +564,6 @@
 					[
 						10727.2727272727,
 						3,
-						0
-					],
-					[
-						11000,
-						1,
 						0
 					],
 					[
@@ -545,26 +582,6 @@
 						0
 					],
 					[
-						10181.8181818182,
-						0,
-						181.818181818182
-					],
-					[
-						10545.4545454545,
-						2,
-						0
-					],
-					[
-						10727.2727272727,
-						1,
-						0
-					],
-					[
-						11000,
-						2,
-						0
-					],
-					[
 						11181.8181818182,
 						1,
 						0
@@ -578,12 +595,54 @@
 						11363.6363636364,
 						3,
 						0
+					],
+					[
+						10181.8181818182,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						10181.8181818182,
+						0,
+						181.818181818182,
+						"Tutorial Note"
+					],
+					[
+						11000,
+						1,
+						0,
+						"Tutorial Note"
+					],
+					[
+						11000,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						11000,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						10545.4545454545,
+						2,
+						0
+					],
+					[
+						10727.2727272727,
+						1,
+						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						11636.3636363636,
@@ -716,10 +775,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						14181.8181818182,
@@ -752,10 +811,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						14545.4545454545,
@@ -858,10 +917,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						16363.6363636364,
@@ -879,11 +938,6 @@
 						0
 					],
 					[
-						17000,
-						5,
-						0
-					],
-					[
 						17090.9090909091,
 						6,
 						0
@@ -894,17 +948,7 @@
 						0
 					],
 					[
-						17363.6363636364,
-						5,
-						0
-					],
-					[
 						16363.6363636364,
-						6,
-						0
-					],
-					[
-						16636.3636363636,
 						6,
 						0
 					],
@@ -925,19 +969,51 @@
 					],
 					[
 						17363.6363636364,
-						6,
+						7,
 						0
 					],
 					[
+						16636.3636363636,
+						6,
+						0,
+						"Tutorial Note"
+					],
+					[
+						16636.3636363636,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
 						17363.6363636364,
-						7,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						17363.6363636364,
+						5,
+						0,
+						"Tutorial Note"
+					],
+					[
+						17363.6363636364,
+						6,
+						0,
+						"Tutorial Note"
+					],
+					[
+						17000,
+						5,
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						17545.4545454545,
@@ -985,26 +1061,6 @@
 						0
 					],
 					[
-						18818.1818181818,
-						0,
-						0
-					],
-					[
-						18818.1818181818,
-						1,
-						0
-					],
-					[
-						18818.1818181818,
-						2,
-						0
-					],
-					[
-						18818.1818181818,
-						3,
-						0
-					],
-					[
 						17545.4545454545,
 						2,
 						0
@@ -1038,12 +1094,41 @@
 						18363.6363636364,
 						1,
 						0
+					],
+					[
+						18818.1818181818,
+						0,
+						0,
+						"Tutorial Note"
+					],
+					[
+						18818.1818181818,
+						3,
+						0,
+						"Tutorial Note"
+					],
+					[
+						18818.1818181818,
+						2,
+						0
+					],
+					[
+						18818.1818181818,
+						1,
+						0
+					],
+					[
+						18818.1818181818,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						19272.7272727273,
@@ -1104,10 +1189,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						21090.9082,
@@ -1117,11 +1202,6 @@
 					[
 						21454.5449,
 						0,
-						0
-					],
-					[
-						21636.3633,
-						1,
 						0
 					],
 					[
@@ -1150,11 +1230,6 @@
 						0
 					],
 					[
-						21636.3636363636,
-						2,
-						0
-					],
-					[
 						20363.6363636364,
 						1,
 						0
@@ -1170,11 +1245,6 @@
 						0
 					],
 					[
-						21090.9090909091,
-						2,
-						0
-					],
-					[
 						20545.4545454545,
 						6,
 						0
@@ -1185,20 +1255,52 @@
 						0
 					],
 					[
-						21454.5454545455,
-						1,
-						0
-					],
-					[
 						21636.3636363636,
 						3,
 						0
+					],
+					[
+						21090.9090909091,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						21090.9090909091,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						21636.3636363636,
+						1,
+						0,
+						"Tutorial Note"
+					],
+					[
+						21636.3636363636,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						21636.3636363636,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						21454.5454545455,
+						1,
+						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						21818.1816,
@@ -1222,22 +1324,12 @@
 					],
 					[
 						22181.8181818182,
-						3,
-						0
-					],
-					[
-						22181.8181818182,
 						2,
 						0
 					],
 					[
 						21818.1818181818,
 						1,
-						0
-					],
-					[
-						21818.1818181818,
-						2,
 						0
 					],
 					[
@@ -1259,12 +1351,30 @@
 						23090.9090909091,
 						2,
 						0
+					],
+					[
+						22181.8181818182,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						21818.1818181818,
+						2,
+						0
+					],
+					[
+						22181.8181818182,
+						3,
+						0,
+						"Tutorial Note"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						23272.7266,
@@ -1357,10 +1467,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						25909.0909090909,
@@ -1419,10 +1529,10 @@
 						818.181818181818
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						27363.6363636364,
@@ -1469,10 +1579,10 @@
 						"GF Sing"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						27818.1818181818,
@@ -1523,11 +1633,6 @@
 						0
 					],
 					[
-						29000,
-						6,
-						0
-					],
-					[
 						28636.3636363636,
 						6,
 						0
@@ -1553,6 +1658,17 @@
 						0
 					],
 					[
+						29000,
+						7,
+						0
+					],
+					[
+						29000,
+						6,
+						0,
+						"Tutorial Note"
+					],
+					[
 						28636.3636363636,
 						5,
 						0
@@ -1564,14 +1680,16 @@
 					],
 					[
 						29000,
-						7,
-						0
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						29727.2727272727,
@@ -1583,11 +1701,6 @@
 					[
 						29272.7272727273,
 						0,
-						0
-					],
-					[
-						29272.7272727273,
-						2,
 						0
 					],
 					[
@@ -1632,14 +1745,27 @@
 					],
 					[
 						29272.7272727273,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						29272.7272727273,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						29272.7272727273,
 						1,
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						31636.3636363636,
@@ -1654,23 +1780,8 @@
 						0
 					],
 					[
-						30818.1818181818,
-						2,
-						0
-					],
-					[
 						31181.8181818182,
 						0,
-						0
-					],
-					[
-						31181.8181818182,
-						1,
-						0
-					],
-					[
-						31181.8181818182,
-						2,
 						0
 					],
 					[
@@ -1688,12 +1799,44 @@
 						30818.1818181818,
 						3,
 						0
+					],
+					[
+						30818.1818181818,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						31181.8181818182,
+						1,
+						0,
+						"Tutorial Note"
+					],
+					[
+						31181.8181818182,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						30818.1818181818,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						31181.8181818182,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						32727.2727272727,
@@ -1750,12 +1893,25 @@
 						6,
 						0,
 						"GF Sing"
+					],
+					[
+						32636.3636363636,
+						0,
+						0,
+						"Tutorial Note"
+					],
+					[
+						32636.3636363636,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						33454.5454545455,
@@ -1792,11 +1948,6 @@
 						0
 					],
 					[
-						34363.6363636364,
-						0,
-						0
-					],
-					[
 						34636.3636363636,
 						3,
 						0
@@ -1805,6 +1956,34 @@
 						34818.1818181818,
 						1,
 						0
+					],
+					[
+						34363.6363636364,
+						1,
+						0
+					],
+					[
+						34636.3636363636,
+						2,
+						0
+					],
+					[
+						34818.1818181818,
+						2,
+						0
+					],
+					[
+						34181.8181818182,
+						3,
+						0,
+						"Tutorial Note"
+					],
+					[
+						34181.8181818182,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					],
 					[
 						34000,
@@ -1812,30 +1991,15 @@
 						0
 					],
 					[
-						34181.8181818182,
-						3,
-						0
-					],
-					[
 						34363.6363636364,
-						1,
-						0
-					],
-					[
-						34636.3636363636,
-						2,
-						0
-					],
-					[
-						34818.1818181818,
-						2,
+						0,
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						36272.7272727273,
@@ -1905,10 +2069,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						37636.3636363636,
@@ -1973,10 +2137,10 @@
 						454.545454545455
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						38272.7272727273,
@@ -1999,10 +2163,10 @@
 						363.636363636364
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						39727.2727272727,
@@ -2035,10 +2199,10 @@
 						181.818181818182
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						42000,
@@ -2081,10 +2245,10 @@
 						181.818181818182
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						42181.8181818182,
@@ -2107,10 +2271,10 @@
 						545.454545454545
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						43636.3636363637,
@@ -2151,23 +2315,20 @@
 						44727.2727272727,
 						1,
 						0
+					],
+					[
+						45000,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
-					[
-						45090.9090909091,
-						1,
-						0
-					],
-					[
-						45090.9090909091,
-						2,
-						0
-					],
 					[
 						45090.9090909091,
 						-1,
@@ -2184,12 +2345,24 @@
 						45090.9090909091,
 						0,
 						0
+					],
+					[
+						45090.9090909091,
+						1,
+						0,
+						"Tutorial Note"
+					],
+					[
+						45090.9090909091,
+						2,
+						0,
+						"Tutorial Note"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						46636.3636363637,
@@ -2235,10 +2408,10 @@
 						"BF"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						48090.9090909091,
@@ -2265,10 +2438,10 @@
 						"GF Sing"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						49636.3636363637,
@@ -2320,10 +2493,10 @@
 						"BF"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						51272.7272727273,
@@ -2362,10 +2535,10 @@
 						"GF Sing"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						52636.3636363637,
@@ -2409,12 +2582,25 @@
 						"Play Animation",
 						"attack",
 						"BF"
+					],
+					[
+						53363.6363636364,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						53363.6363636364,
+						1,
+						0,
+						"Tutorial Note"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						53818.1818181818,
@@ -2470,12 +2656,25 @@
 						"Play Animation",
 						"attack",
 						"BF"
+					],
+					[
+						55090.9090909091,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						55090.9090909091,
+						3,
+						0,
+						"Tutorial Note"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						55272.7272727273,
@@ -2520,10 +2719,10 @@
 						"GF Sing"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						58000,
@@ -2536,12 +2735,38 @@
 						5,
 						"Add Camera Zoom",
 						"GF Sing"
+					],
+					[
+						57727.2727272728,
+						1,
+						0,
+						"Tutorial Note"
+					],
+					[
+						58000,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						57727.2727272728,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						58000,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						58363.6363636364,
@@ -2589,10 +2814,10 @@
 						"BF"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						59636.3636363637,
@@ -2641,12 +2866,31 @@
 						0,
 						0,
 						"GF Sing"
+					],
+					[
+						60818.1818181819,
+						4,
+						0,
+						"Tutorial Note"
+					],
+					[
+						60818.1818181819,
+						7,
+						0,
+						"Tutorial Note"
+					],
+					[
+						60818.1818181819,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						61636.3636363637,
@@ -2680,10 +2924,10 @@
 						"BF"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						62727.2727272728,
@@ -2734,10 +2978,10 @@
 						"GF Sing"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						64090.9090909091,
@@ -2807,10 +3051,10 @@
 						"BF"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						65454.5454545455,
@@ -2862,10 +3106,10 @@
 						"BF"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						66909.0909090909,
@@ -2910,10 +3154,10 @@
 						"GF Sing"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						68363.6363636364,
@@ -2960,10 +3204,10 @@
 						"BF"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						69818.1818181819,
@@ -3009,10 +3253,10 @@
 						"BF"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						71363.6363636364,
@@ -3052,10 +3296,10 @@
 						"BF"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						72818.1818181819,
@@ -3152,19 +3396,14 @@
 						181.818181818182
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						74363.6363636364,
 						4,
-						0
-					],
-					[
-						74727.2727272728,
-						7,
 						0
 					],
 					[
@@ -3188,11 +3427,6 @@
 						0
 					],
 					[
-						74363.6363636364,
-						5,
-						0
-					],
-					[
 						74727.2727272728,
 						5,
 						0
@@ -3206,12 +3440,38 @@
 						75272.7272727273,
 						5,
 						0
+					],
+					[
+						74363.6363636364,
+						5,
+						0,
+						"Tutorial Note"
+					],
+					[
+						74727.2727272728,
+						7,
+						0,
+						"Tutorial Note"
+					],
+					[
+						74363.6363636364,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						74727.2727272728,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						75818.1818181819,
@@ -3244,19 +3504,28 @@
 					],
 					[
 						75818.1818181819,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					],
+					[
+						75818.1818181819,
 						2,
-						0
+						0,
+						"Tutorial Note"
 					],
 					[
 						76181.8181818182,
 						3,
-						0
+						0,
+						"Tutorial Note"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						77363.6363636364,
@@ -3308,10 +3577,10 @@
 						"BF"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						78818.1818181819,
@@ -3412,10 +3681,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						81090.91,
@@ -3498,10 +3767,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						81454.5454545455,
@@ -3594,10 +3863,10 @@
 						454.545454545455
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						83272.7272727273,
@@ -3640,10 +3909,10 @@
 						272.727272727273
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						84818.1818181819,
@@ -3686,10 +3955,10 @@
 						454.545454545455
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						86181.8181818182,
@@ -3767,10 +4036,10 @@
 						545.454545454545
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						87818.1818181819,
@@ -3813,142 +4082,150 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						89000.0000000001,
+						7,
+						0
+					],
+					[
+						89272.7272727273,
+						6,
+						0
+					],
+					[
+						90090.9090909091,
+						7,
+						0
+					],
+					[
+						89272.7272727273,
+						4,
+						0
+					],
+					[
+						89727.2727272728,
+						5,
+						0
+					],
+					[
+						89727.2727272728,
+						7,
+						0
+					],
+					[
+						90090.9090909091,
+						6,
+						0
+					],
+					[
+						90090.9090909091,
+						5,
+						0
+					],
+					[
+						90090.9090909091,
+						4,
+						0
+					],
+					[
+						89000.0000000001,
+						3,
+						0
+					],
+					[
+						89272.7272727273,
+						0,
+						0
+					],
+					[
+						89272.7272727273,
+						2,
+						0
+					],
+					[
+						89727.2727272728,
+						1,
+						0
+					],
+					[
+						89727.2727272728,
+						3,
+						0
+					],
+					[
+						89000.0000000001,
+						0,
+						0
+					],
+					[
+						89000.0000000001,
+						4,
+						0
+					],
+					[
+						89272.7272727273,
+						7,
+						0
+					],
+					[
+						89727.2727272728,
+						4,
+						0
+					],
+					[
+						89727.2727272728,
+						0,
+						0
+					],
+					[
+						89272.7272727273,
+						3,
+						0
+					],
+					[
+						90090.9090909091,
+						0,
+						0,
+						"Tutorial Note"
+					],
+					[
+						90090.9090909091,
+						1,
+						0,
+						"Tutorial Note"
+					],
+					[
+						90090.9090909091,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						90090.9090909091,
+						3,
+						0,
+						"Tutorial Note"
+					],
+					[
+						90090.9090909091,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					]
+				],
 				"typeOfSection": 0,
-				"sectionNotes": [
-					[
-						89000.0000000001,
-						7,
-						0
-					],
-					[
-						89272.7272727273,
-						6,
-						0
-					],
-					[
-						90090.9090909091,
-						7,
-						0
-					],
-					[
-						89272.7272727273,
-						4,
-						0
-					],
-					[
-						89727.2727272728,
-						5,
-						0
-					],
-					[
-						89727.2727272728,
-						7,
-						0
-					],
-					[
-						90090.9090909091,
-						6,
-						0
-					],
-					[
-						90090.9090909091,
-						5,
-						0
-					],
-					[
-						90090.9090909091,
-						4,
-						0
-					],
-					[
-						89000.0000000001,
-						3,
-						0
-					],
-					[
-						89272.7272727273,
-						0,
-						0
-					],
-					[
-						89272.7272727273,
-						2,
-						0
-					],
-					[
-						89727.2727272728,
-						1,
-						0
-					],
-					[
-						89727.2727272728,
-						3,
-						0
-					],
-					[
-						90090.9090909091,
-						3,
-						0
-					],
-					[
-						90090.9090909091,
-						2,
-						0
-					],
-					[
-						90090.9090909091,
-						1,
-						0
-					],
-					[
-						90090.9090909091,
-						0,
-						0
-					],
-					[
-						89000.0000000001,
-						0,
-						0
-					],
-					[
-						89000.0000000001,
-						4,
-						0
-					],
-					[
-						89272.7272727273,
-						7,
-						0
-					],
-					[
-						89727.2727272728,
-						4,
-						0
-					],
-					[
-						89727.2727272728,
-						0,
-						0
-					],
-					[
-						89272.7272727273,
-						3,
-						0
-					]
-				],
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						90909.090909091,
@@ -3969,25 +4246,44 @@
 						90909.090909091,
 						3,
 						2363.63636363636
+					],
+					[
+						90454.5454545455,
+						2,
+						0,
+						"Tutorial Note"
+					],
+					[
+						90454.5454545455,
+						0,
+						0,
+						"Tutorial Note"
+					],
+					[
+						90454.5454545455,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						93090.9090909091,
@@ -4037,244 +4333,273 @@
 						"1, 0.25"
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 165,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 165
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 165
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 165
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 165
 			},
 			{
 				"lengthInSteps": 16,
@@ -4313,22 +4638,22 @@
 				"bpm": 165
 			},
 			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
-				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 165,
 				"changeBPM": false,
-				"bpm": 165
+				"mustHitSection": true
 			},
 			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
-				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 165,
 				"changeBPM": false,
-				"bpm": 165
+				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
@@ -4340,13 +4665,12 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "spok",
 		"player3": "gf",
 		"song": "Artist lemonade",
 		"stage": "exampleStage",
 		"needsVoices": true,
 		"validScore": true,
-		"bpm": 165,
-		"speed": 3.6
+		"speed": 3.6,
+		"bpm": 165
 	}
 }

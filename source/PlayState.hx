@@ -62,16 +62,16 @@ class PlayState extends MusicBeatState
 	public static var STRUM_X_MIDDLESCROLL = -278;
 
 	public static var ratingStuff:Array<Dynamic> = [
-		['You Suck!', 0.2], //From 0% to 19%
-		['Shit', 0.4], //From 20% to 39%
-		['Bad', 0.5], //From 40% to 49%
-		['Bruh', 0.6], //From 50% to 59%
-		['Meh', 0.69], //From 60% to 68%
-		['Nice', 0.7], //69%
-		['Good', 0.8], //From 70% to 79%
-		['Great', 0.9], //From 80% to 89%
-		['Sick!', 1], //From 90% to 99%
-		['Perfect!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
+		['Your Social Credit score is zero!', 0.2], //From 0% to 19%
+		['Despicable', 0.4], //From 20% to 39%
+		['Imbecile', 0.5], //From 40% to 49%
+		['Bread', 0.6], //From 50% to 59%
+		['Huh', 0.69], //From 60% to 68%
+		['Funny Number!', 0.7], //69%
+		['GG BIT-!', 0.8], //From 70% to 79%
+		['Jong Xina', 0.9], //From 80% to 89%
+		['Bing chilling!', 1], //From 90% to 99%
+		['Super Idol!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
 	];
 	
 	#if (haxe >= "4.0.0")
@@ -1020,6 +1020,9 @@ class PlayState extends MusicBeatState
 
                     case 'good-enough':
 					    startVideo('finalanimation');
+
+					case 'week2test':
+					    startVideo('ow');
 
 				default:
 					startCountdown();
@@ -2454,6 +2457,9 @@ class PlayState extends MusicBeatState
 
 	public function triggerEventNote(eventName:String, value1:String, value2:String) {
 		switch(eventName) {
+			case 'Sound Effect':
+			    var value:Int = Std.parseInt(value1);
+				FlxG.sound.play(Paths.sound(value1));
 			case 'Hey!':
 				var value:Int = 2;
 				switch(value1.toLowerCase().trim()) {
@@ -2694,7 +2700,23 @@ class PlayState extends MusicBeatState
 					if(duration > 0 && intensity != 0) {
 						targetsArray[i].shake(intensity, duration);
 					}
+					
 				}
+			case 'Jumpscare':
+				var bruh:FlxSprite = new FlxSprite();
+				bruh.loadGraphic(Paths.image('longbob'));
+				bruh.antialiasing = true;
+				bruh.active = false;
+				bruh.scrollFactor.set();
+				bruh.screenCenter();
+				add(bruh);
+				FlxTween.tween(bruh, {alpha: 0},1, {
+					ease: FlxEase.cubeInOut,
+					onComplete: function(twn:FlxTween)
+					{
+						bruh.destroy();
+					}
+				});
 
 			case 'Change Character':
 				var charType:Int = Std.parseInt(value1);
