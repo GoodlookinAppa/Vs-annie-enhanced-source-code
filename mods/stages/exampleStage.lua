@@ -7,10 +7,6 @@ function onCreate()
     addLuaSprite('theGround',false)
     setLuaSpriteScrollFactor('theGround', 0.8, 0.8);
 
-    makeLuaSprite('Arthur','arthur1',1000,240)
-    addLuaSprite('Arthur',false)
-    setLuaSpriteScrollFactor('Arthur', 1.0, 0.9);
-
     makeLuaSprite('leArmadillo','armadillo',110,700)
     addLuaSprite('leArmadillo',true)
     setLuaSpriteScrollFactor('leArmadillo', 1.0, 0.9);
@@ -19,12 +15,18 @@ function onCreate()
     addLuaSprite('leArmadillo2',true)
     setLuaSpriteScrollFactor('leArmadillo2', 1.0, 0.9);
 
+    makeAnimatedLuaSprite('Arthur','arthurbounce',1100,140)
+    addAnimationByPrefix('Arthur','arthurbounce','Arthurbounce',24,true)
+    addLuaSprite('Arthur',false)
+
 end  
 
 
-function onBeatHit()
-		
-end
+function onBeatHit()-- for every beat
+
+    objectPlayAnimation('Arthur','arthurbounce',true)
+ 
+ end
 
 function onStepHit()
 	if curBeat < 388 then

@@ -1,6 +1,6 @@
 {
 	"song": {
-		"speed": 3.6,
+		"speed": 3,
 		"stage": "exampleStage",
 		"player1": "bf",
 		"player2": "spok",
@@ -78,13 +78,6 @@
 						"Sound Effect",
 						"GUNSHOT",
 						""
-					],
-					[
-						4000,
-						-1,
-						"Change Character",
-						"BF",
-						"bfscared"
 					]
 				],
 				"bpm": 0,
@@ -184,7 +177,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						12818.1818181818,
+						-1,
+						"Sound Effect",
+						"GUNSHOT",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -358,15 +359,7 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [
-					[
-						28000,
-						-1,
-						"Sound Effect",
-						"GUNSHOT",
-						""
-					]
-				],
+				"sectionNotes": [],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -376,13 +369,6 @@
 				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [
-					[
-						29272.7272727273,
-						-1,
-						"Sound Effect",
-						"GUNSHOT",
-						""
-					],
 					[
 						29727.2727272727,
 						-1,

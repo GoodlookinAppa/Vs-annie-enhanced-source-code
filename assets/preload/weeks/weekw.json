@@ -1,14 +1,10 @@
 {
 	"storyName": "western dog rat looking thing",
+	"difficulties": "sussysheesh, hard, erect",
 	"hideFreeplay": false,
 	"weekBackground": "west",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
 	"songs": [
 		[
 			"artist-lemonade",
@@ -18,8 +14,22 @@
 				135,
 				20
 			]
+		],
+		[
+			"past-my-prime-time",
+			"dadwest",
+			[
+				255,
+				93,
+				73
+			]
 		]
 	],
 	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"weekName": "weekw"
 }

@@ -1,0 +1,31 @@
+{
+	"storyName": "Cover week",
+	"difficulties": "sussysheesh, hard, erect",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"chaos",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"",
+		""
+	],
+	"weekName": ""
+}
